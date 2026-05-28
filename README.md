@@ -25,7 +25,7 @@
 - [**Unity-Scanner**](https://github.com/AlexeyPerov/Unity-Scanner) · ⭐ 2 — Unified Editor & MCP tool for project health analysis across dependencies, materials, textures, addressables, and more
 - [**Unity-Addressables-BuildLayout-Inspector**](https://github.com/AlexeyPerov/Unity-Addressables-BuildLayout-Inspector) · ⭐ 1 — Analyze Addressables build layouts — bundles, groups, assets, duplicates, and cross-build comparisons
 - [**Unity-Materials-Hunter**](https://github.com/AlexeyPerov/Unity-Materials-Hunter) · ⭐ 2 — Summary of all materials and renderers in a Unity project
-- [**Unity-Asset-Inspector**](https://github.com/AlexeyPerov/Unity-Asset-Inspector) · — Inspect asset references, serialized dependencies, and optional Addressables/bundle context
+- [**Unity-Asset-Inspector**](https://github.com/AlexeyPerov/Unity-Asset-Inspector) — Inspect asset references, serialized dependencies, and optional Addressables/bundle context
 - [**Unity-Lite-Editor-Coroutines**](https://github.com/AlexeyPerov/Unity-Lite-Editor-Coroutines) · ⭐ 1 — Lightweight alternative to Unity Editor Coroutines
 
 ---
@@ -35,7 +35,7 @@
 
 <br/>
 
-- [**SimilarTexturesFinder**](https://github.com/AlexeyPerov/SimilarTexturesFinder) · — Desktop app for finding duplicate and near-duplicate texture images
+- [**SimilarTexturesFinder**](https://github.com/AlexeyPerov/SimilarTexturesFinder) — Desktop app for finding duplicate and near-duplicate texture images
 - [**crunch_textures**](https://github.com/AlexeyPerov/crunch_textures) · ⭐ 11 — Check and resize textures for Crunch compression (width/height multiple of 4)
 
 ---
@@ -54,7 +54,7 @@
 
 <br/>
 
-- [**SpecOps**](https://github.com/AlexeyPerov/SpecOps) · — Desktop workspace for specs, notes, and project files. Built with **Tauri** and **SvelteKit**. AI support is currently under development
-- **Vibe Tracker** · — Self-hosted task management system (**Fastify** API, **Svelte 5** SPA, **Tauri** launcher). Repo is private until MVP release
+- [**SpecOps**](https://github.com/AlexeyPerov/SpecOps) — Desktop workspace for specs, notes, and project files. Built with **Tauri** and **SvelteKit**. AI support is currently under development
+- **Vibe Tracker** — Self-hosted task management system (**Fastify** API, **Svelte 5** SPA, **Tauri** launcher). Repo is private until MVP release
 
 <br/>
