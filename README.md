@@ -9,13 +9,13 @@
 </div>
 
 <div align="center">
-<code>Developers, AI and Unity Editor tooling</code>
+<code>Developer tools, AI, and Unity Editor tooling</code>
 </div>
 
 ---
 
 <h1 align="center">Unity Tools</h1>
-<div align="center">Tools that help teams keep Unity projects healthy — finding unused assets, missing references, texture issues, and Addressables problems.</div>
+<div align="center">Tools that help keep Unity projects healthy — finding unused assets, missing references, texture issues, and Addressables problems.</div>
 
 <br/>
 
@@ -54,7 +54,7 @@
 
 <br/>
 
-- [**SpecOps**](https://github.com/AlexeyPerov/SpecOps) · ⭐ 0 — Desktop workspace for specs, notes, and project files. Built with **Tauri** and **SvelteKit**. AI support is currently under development
+- [**SpecOps**](https://github.com/AlexeyPerov/SpecOps) · — Desktop workspace for specs, notes, and project files. Built with **Tauri** and **SvelteKit**. AI support is currently under development
 - **Vibe Tracker** — Self-hosted task management system (**Fastify** API, **Svelte 5** SPA, **Tauri** launcher). Repo is private until MVP release
 
 <br/>
