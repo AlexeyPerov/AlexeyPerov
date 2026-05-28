@@ -8,7 +8,9 @@
   <a href="https://alexeyperov.github.io/"><img src="https://img.shields.io/badge/Website-alexeyperov.github.io-24292f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 </div>
 
-Software engineer and open-source maintainer focused on **Dev**, **AI** and **Unity Editor tooling**.
+<div align="center">
+<code>Developers, AI and Unity Editor tooling</code>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexeyPerov&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
@@ -43,15 +45,10 @@ Software engineer and open-source maintainer focused on **Dev**, **AI** and **Un
 <a href="https://github.com/AlexeyPerov/Unity-Asset-Inspector">
   <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=Unity-Asset-Inspector&theme=default&hide_border=true"/>
 </a>
-<a href="https://github.com/AlexeyPerov/Unity-Pocket-Editor-Coroutines">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=Unity-Pocket-Editor-Coroutines&theme=default&hide_border=true"/>
-</a>
 <a href="https://github.com/AlexeyPerov/Unity-Lite-Editor-Coroutines">
   <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=Unity-Lite-Editor-Coroutines&theme=default&hide_border=true"/>
 </a>
-<a href="https://github.com/AlexeyPerov/UPM-Package-Manager">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=UPM-Package-Manager&theme=default&hide_border=true"/>
-</a>
+
 
 ---
 
@@ -98,19 +95,7 @@ Built with **Tauri** and **SvelteKit** — a local-first environment for writing
 ---
 
 <h1 align="center">Vibe Tracker</h1>
-<div align="center">Self-hosted task management with Docker deployment</div>
-<br/>
 
-<a href="https://github.com/AlexeyPerov/vibe-tracker">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=vibe-tracker&theme=default&hide_border=true"/>
-</a>
-
-**Vibe** is a self-hosted task management system — **Fastify** API backend, **Svelte 5** SPA frontend, and a **Tauri** desktop launcher. 
+**Vibe** is a self-hosted task management system — **Fastify** API backend, **Svelte 5** SPA frontend, and a **Tauri** desktop launcher. Currently repo is private till MVP release.
 
 <br/>
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=AlexeyPerov/Unity-Dependencies-Hunter,AlexeyPerov/Unity-MissingReferences-Hunter,AlexeyPerov/Unity-Textures-Hunter,AlexeyPerov/crunch_textures,AlexeyPerov/proviso&type=Date)](https://star-history.com/#AlexeyPerov/Unity-Dependencies-Hunter&AlexeyPerov/Unity-MissingReferences-Hunter&AlexeyPerov/Unity-Textures-Hunter&AlexeyPerov/crunch_textures&AlexeyPerov/proviso&Date)
-
-</div>
