@@ -19,14 +19,57 @@
 
 <br/>
 
-- [**Unity-Dependencies-Hunter**](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter) · ⭐ 715 — Finds unreferenced assets by scanning all files in your Unity project
-- [**Unity-MissingReferences-Hunter**](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter) · ⭐ 98 — Detects missing references by scanning asset GUIDs across the project
-- [**Unity-Textures-Hunter**](https://github.com/AlexeyPerov/Unity-Textures-Hunter) · ⭐ 84 — Summary of all textures and atlases in a Unity project
-- [**Unity-Scanner**](https://github.com/AlexeyPerov/Unity-Scanner) · ⭐ 2 — Unified Editor & MCP tool for project health analysis across dependencies, materials, textures, addressables, and more
-- [**Unity-Addressables-BuildLayout-Inspector**](https://github.com/AlexeyPerov/Unity-Addressables-BuildLayout-Inspector) · ⭐ 1 — Analyze Addressables build layouts — bundles, groups, assets, duplicates, and cross-build comparisons
-- [**Unity-Materials-Hunter**](https://github.com/AlexeyPerov/Unity-Materials-Hunter) · ⭐ 2 — Summary of all materials and renderers in a Unity project
-- [**Unity-Asset-Inspector**](https://github.com/AlexeyPerov/Unity-Asset-Inspector) — Inspect asset references, serialized dependencies, and optional Addressables/bundle context
-- [**Unity-Lite-Editor-Coroutines**](https://github.com/AlexeyPerov/Unity-Lite-Editor-Coroutines) · ⭐ 1 — Lightweight alternative to Unity Editor Coroutines
+<table width="100%">
+  <tr>
+    <td>
+      ⭐ <strong>Featured</strong> · <strong><a href="https://github.com/AlexeyPerov/Unity-Dependencies-Hunter">Unity-Dependencies-Hunter</a></strong> · ⭐ 715
+      <br/><br/>
+      Finds unreferenced assets by scanning all files in your Unity project.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter">Unity-MissingReferences-Hunter</a></strong> · ⭐ 98<br/>
+      Detects missing references by scanning asset GUIDs across the project.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Textures-Hunter">Unity-Textures-Hunter</a></strong> · ⭐ 84<br/>
+      Summary of all textures and atlases in a Unity project.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Scanner">Unity-Scanner</a></strong> · ⭐ 2<br/>
+      Unified Editor & MCP tool for project health analysis across dependencies, materials, textures, addressables, and more.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Addressables-BuildLayout-Inspector">Unity-Addressables-BuildLayout-Inspector</a></strong> · ⭐ 1<br/>
+      Analyze Addressables build layouts — bundles, groups, assets, duplicates, and cross-build comparisons.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Materials-Hunter">Unity-Materials-Hunter</a></strong> · ⭐ 2<br/>
+      Summary of all materials and renderers in a Unity project.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Asset-Inspector">Unity-Asset-Inspector</a></strong><br/>
+      Inspect asset references, serialized dependencies, and optional Addressables/bundle context.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Lite-Editor-Coroutines">Unity-Lite-Editor-Coroutines</a></strong> · ⭐ 1<br/>
+      Lightweight alternative to Unity Editor Coroutines.
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
@@ -35,8 +78,18 @@
 
 <br/>
 
-- [**SimilarTexturesFinder**](https://github.com/AlexeyPerov/SimilarTexturesFinder) — Desktop app for finding duplicate and near-duplicate texture images
-- [**crunch_textures**](https://github.com/AlexeyPerov/crunch_textures) · ⭐ 11 — Check and resize textures for Crunch compression (width/height multiple of 4)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AlexeyPerov/SimilarTexturesFinder">SimilarTexturesFinder</a></strong><br/>
+      Desktop app for finding duplicate and near-duplicate texture images.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AlexeyPerov/crunch_textures">crunch_textures</a></strong> · ⭐ 11<br/>
+      Check and resize textures for Crunch compression (width/height multiple of 4).
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,8 +98,18 @@
 
 <br/>
 
-- [**LogKeeper-Flutter-Firebase**](https://github.com/AlexeyPerov/LogKeeper-Flutter-Firebase) · ⭐ 5 — Cross-platform log snapshot sharing (Flutter/Dart, Bloc, Firebase Firestore)
-- [**proviso**](https://github.com/AlexeyPerov/proviso) · ⭐ 3 — Flutter toolkit for conditional rendering, subtree wrapping, and handy dev shortcuts
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AlexeyPerov/LogKeeper-Flutter-Firebase">LogKeeper-Flutter-Firebase</a></strong> · ⭐ 5<br/>
+      Cross-platform log snapshot sharing (Flutter/Dart, Bloc, Firebase Firestore).
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AlexeyPerov/proviso">proviso</a></strong> · ⭐ 3<br/>
+      Flutter toolkit for conditional rendering, subtree wrapping, and handy dev shortcuts.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -54,7 +117,17 @@
 
 <br/>
 
-- [**SpecOps**](https://github.com/AlexeyPerov/SpecOps) — Desktop workspace for specs, notes, and project files. Built with **Tauri** and **SvelteKit**. AI support is currently under development
-- **Vibe Tracker** — Self-hosted task management system (**Fastify** API, **Svelte 5** SPA, **Tauri** launcher). Repo is private until MVP release
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AlexeyPerov/SpecOps">SpecOps</a></strong><br/>
+      Desktop workspace for specs, notes, and project files. Built with <strong>Tauri</strong> and <strong>SvelteKit</strong>. AI support is currently under development.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Vibe Tracker</strong><br/>
+      Self-hosted task management system (<strong>Fastify</strong> API, <strong>Svelte 5</strong> SPA, <strong>Tauri</strong> launcher). Repo is private until MVP release.
+    </td>
+  </tr>
+</table>
 
 <br/>

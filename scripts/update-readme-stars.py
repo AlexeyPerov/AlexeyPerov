@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Update star counts in profile README list items linked to GitHub repos."""
+"""Update star counts in profile README for linked GitHub repos."""
 
 from __future__ import annotations
 
@@ -12,9 +12,9 @@ import urllib.request
 
 OWNER = "AlexeyPerov"
 README_PATH = "README.md"
-LINE_RE = re.compile(
-    rf"^(- \[\*\*(?P<title>[^*]+)\*\*\]\(https://github\.com/{re.escape(OWNER)}/(?P<repo>[^)]+)\))"
-    r"\s*(?:·\s*(?:⭐\s*\d+\s*)?)?—(?P<desc>.*)$"
+LINK_RE = re.compile(
+    rf'(<a href="https://github\.com/{re.escape(OWNER)}/(?P<repo>[^"]+)">[^<]+</a></strong>)'
+    r"(?:\s*·\s*⭐\s*\d+)?"
 )
 
 
@@ -43,42 +43,41 @@ def fetch_stars(repo: str) -> int | None:
         raise
 
 
-def format_line(title: str, repo: str, desc: str, stars: int | None) -> str:
-    prefix = f"- [**{title}**](https://github.com/{OWNER}/{repo})"
+def stars_suffix(stars: int | None) -> str:
     if stars is not None and stars > 0:
-        return f"{prefix} · ⭐ {stars} —{desc}"
-    return f"{prefix} —{desc}"
+        return f" · ⭐ {stars}"
+    return ""
+
+
+def collect_repos(content: str) -> set[str]:
+    return {match.group("repo") for match in LINK_RE.finditer(content)}
+
+
+def update_content(content: str) -> tuple[str, bool]:
+    star_cache = {repo: fetch_stars(repo) for repo in sorted(collect_repos(content))}
+    changed = False
+
+    def replacer(match: re.Match[str]) -> str:
+        nonlocal changed
+        repo = match.group("repo")
+        replacement = match.group(1) + stars_suffix(star_cache.get(repo))
+        if replacement != match.group(0):
+            changed = True
+            print(f"Updated {repo}: {star_cache.get(repo) or 0} stars")
+        return replacement
+
+    return LINK_RE.sub(replacer, content), changed
 
 
 def main() -> int:
     with open(README_PATH, encoding="utf-8") as handle:
-        lines = handle.readlines()
+        content = handle.read()
 
-    updated_lines: list[str] = []
-    changed = False
-
-    for line in lines:
-        stripped = line.rstrip("\n")
-        match = LINE_RE.match(stripped)
-        if not match:
-            updated_lines.append(line)
-            continue
-
-        title = match.group("title")
-        repo = match.group("repo")
-        desc = match.group("desc")
-        stars = fetch_stars(repo)
-        new_line = format_line(title, repo, desc, stars)
-
-        if new_line != stripped:
-            changed = True
-            print(f"Updated {repo}: {stars or 0} stars")
-
-        updated_lines.append(new_line + "\n")
+    updated_content, changed = update_content(content)
 
     if changed:
         with open(README_PATH, "w", encoding="utf-8") as handle:
-            handle.writelines(updated_lines)
+            handle.write(updated_content)
         print("README.md updated")
         return 0
 
