@@ -55,6 +55,6 @@
 <br/>
 
 - [**SpecOps**](https://github.com/AlexeyPerov/SpecOps) · — Desktop workspace for specs, notes, and project files. Built with **Tauri** and **SvelteKit**. AI support is currently under development
-- **Vibe Tracker** — Self-hosted task management system (**Fastify** API, **Svelte 5** SPA, **Tauri** launcher). Repo is private until MVP release
+- **Vibe Tracker** · — Self-hosted task management system (**Fastify** API, **Svelte 5** SPA, **Tauri** launcher). Repo is private until MVP release
 
 <br/>
