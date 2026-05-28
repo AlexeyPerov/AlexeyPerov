@@ -21,53 +21,44 @@
 
 <table width="100%">
   <tr>
-    <td>
-      ⭐ <strong>Featured</strong> · <strong><a href="https://github.com/AlexeyPerov/Unity-Dependencies-Hunter">Unity-Dependencies-Hunter</a></strong> · ⭐ 715
-      <br/><br/>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Dependencies-Hunter">Unity-Dependencies-Hunter</a></strong> · ⭐ 715<br/>
       Finds unreferenced assets by scanning all files in your Unity project.
     </td>
-  </tr>
-</table>
-
-<br/>
-
-<table width="100%">
-  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter">Unity-MissingReferences-Hunter</a></strong> · ⭐ 98<br/>
       Detects missing references by scanning asset GUIDs across the project.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/AlexeyPerov/Unity-Textures-Hunter">Unity-Textures-Hunter</a></strong> · ⭐ 84<br/>
       Summary of all textures and atlases in a Unity project.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/AlexeyPerov/Unity-Scanner">Unity-Scanner</a></strong> · ⭐ 2<br/>
       Unified Editor & MCP tool for project health analysis across dependencies, materials, textures, addressables, and more.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/AlexeyPerov/Unity-Addressables-BuildLayout-Inspector">Unity-Addressables-BuildLayout-Inspector</a></strong> · ⭐ 1<br/>
       Analyze Addressables build layouts — bundles, groups, assets, duplicates, and cross-build comparisons.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/AlexeyPerov/Unity-Materials-Hunter">Unity-Materials-Hunter</a></strong> · ⭐ 2<br/>
       Summary of all materials and renderers in a Unity project.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/AlexeyPerov/Unity-Asset-Inspector">Unity-Asset-Inspector</a></strong><br/>
       Inspect asset references, serialized dependencies, and optional Addressables/bundle context.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/AlexeyPerov/Unity-Lite-Editor-Coroutines">Unity-Lite-Editor-Coroutines</a></strong> · ⭐ 1<br/>
       Lightweight alternative to Unity Editor Coroutines.
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
