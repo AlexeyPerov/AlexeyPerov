@@ -12,90 +12,49 @@
 <code>Developers, AI and Unity Editor tooling</code>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexeyPerov&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyPerov&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</div>
-
 ---
 
 <h1 align="center">Unity Tools</h1>
-<div align="center">This tools help teams keep Unity projects healthy — finding unused assets, missing references, texture issues, and Addressables problems.</div>
+<div align="center">Tools that help teams keep Unity projects healthy — finding unused assets, missing references, texture issues, and Addressables problems.</div>
 
 <br/>
 
-<a href="https://github.com/AlexeyPerov/Unity-Dependencies-Hunter">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=Unity-Dependencies-Hunter&theme=default&hide_border=true"/>
-</a>
-<a href="https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=Unity-MissingReferences-Hunter&theme=default&hide_border=true"/>
-</a>
-<a href="https://github.com/AlexeyPerov/Unity-Textures-Hunter">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=Unity-Textures-Hunter&theme=default&hide_border=true"/>
-</a>
-<a href="https://github.com/AlexeyPerov/Unity-Scanner">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=Unity-Scanner&theme=default&hide_border=true"/>
-</a>
-<a href="https://github.com/AlexeyPerov/Unity-Addressables-BuildLayout-Inspector">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=Unity-Addressables-BuildLayout-Inspector&theme=default&hide_border=true"/>
-</a>
-<a href="https://github.com/AlexeyPerov/Unity-Materials-Hunter">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=Unity-Materials-Hunter&theme=default&hide_border=true"/>
-</a>
-<a href="https://github.com/AlexeyPerov/Unity-Asset-Inspector">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=Unity-Asset-Inspector&theme=default&hide_border=true"/>
-</a>
-<a href="https://github.com/AlexeyPerov/Unity-Lite-Editor-Coroutines">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=Unity-Lite-Editor-Coroutines&theme=default&hide_border=true"/>
-</a>
-
+- [**Unity-Dependencies-Hunter**](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter) · ⭐ 715 — Finds unreferenced assets by scanning all files in your Unity project
+- [**Unity-MissingReferences-Hunter**](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter) · ⭐ 98 — Detects missing references by scanning asset GUIDs across the project
+- [**Unity-Textures-Hunter**](https://github.com/AlexeyPerov/Unity-Textures-Hunter) · ⭐ 84 — Summary of all textures and atlases in a Unity project
+- [**Unity-Scanner**](https://github.com/AlexeyPerov/Unity-Scanner) · ⭐ 2 — Unified Editor & MCP tool for project health analysis across dependencies, materials, textures, addressables, and more
+- [**Unity-Addressables-BuildLayout-Inspector**](https://github.com/AlexeyPerov/Unity-Addressables-BuildLayout-Inspector) · ⭐ 1 — Analyze Addressables build layouts — bundles, groups, assets, duplicates, and cross-build comparisons
+- [**Unity-Materials-Hunter**](https://github.com/AlexeyPerov/Unity-Materials-Hunter) · ⭐ 2 — Summary of all materials and renderers in a Unity project
+- [**Unity-Asset-Inspector**](https://github.com/AlexeyPerov/Unity-Asset-Inspector) · — Inspect asset references, serialized dependencies, and optional Addressables/bundle context
+- [**Unity-Lite-Editor-Coroutines**](https://github.com/AlexeyPerov/Unity-Lite-Editor-Coroutines) · ⭐ 1 — Lightweight alternative to Unity Editor Coroutines
 
 ---
 
 <h1 align="center">Image Processing Tools</h1>
 <div align="center">Desktop utilities for texture workflows and compression prep</div>
+
 <br/>
 
-<a href="https://github.com/AlexeyPerov/SimilarTexturesFinder">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=SimilarTexturesFinder&theme=default&hide_border=true"/>
-</a>
-<a href="https://github.com/AlexeyPerov/crunch_textures">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=crunch_textures&theme=default&hide_border=true"/>
-</a>
+- [**SimilarTexturesFinder**](https://github.com/AlexeyPerov/SimilarTexturesFinder) · — Desktop app for finding duplicate and near-duplicate texture images
+- [**crunch_textures**](https://github.com/AlexeyPerov/crunch_textures) · ⭐ 11 — Check and resize textures for Crunch compression (width/height multiple of 4)
 
 ---
 
 <h1 align="center">Other Tools</h1>
 <div align="center">Cross-platform apps, logging, Flutter libraries, and more</div>
+
 <br/>
 
-<a href="https://github.com/AlexeyPerov/LogKeeper-Flutter-Firebase">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=LogKeeper-Flutter-Firebase&theme=default&hide_border=true"/>
-</a>
-<a href="https://github.com/AlexeyPerov/proviso">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=proviso&theme=default&hide_border=true"/>
-</a>
+- [**LogKeeper-Flutter-Firebase**](https://github.com/AlexeyPerov/LogKeeper-Flutter-Firebase) · ⭐ 5 — Cross-platform log snapshot sharing (Flutter/Dart, Bloc, Firebase Firestore)
+- [**proviso**](https://github.com/AlexeyPerov/proviso) · ⭐ 3 — Flutter toolkit for conditional rendering, subtree wrapping, and handy dev shortcuts
 
 ---
 
 <h1 align="center">Under Development</h1>
 
----
-
-<h1 align="center">SpecOps</h1>
-<div align="center">Desktop workspace for specs, notes, and project files with AI support</div>
 <br/>
 
-<a href="https://github.com/AlexeyPerov/SpecOps">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyPerov&repo=SpecOps&theme=default&hide_border=true"/>
-</a>
-
-Built with **Tauri** and **SvelteKit** — a local-first environment for writing specifications, organizing notes, and managing project documentation.
-
----
-
-<h1 align="center">Vibe Tracker</h1>
-
-**Vibe** is a self-hosted task management system — **Fastify** API backend, **Svelte 5** SPA frontend, and a **Tauri** desktop launcher. Currently repo is private till MVP release.
+- [**SpecOps**](https://github.com/AlexeyPerov/SpecOps) · ⭐ 0 — Desktop workspace for specs, notes, and project files. Built with **Tauri** and **SvelteKit**. AI support is currently under development
+- **Vibe Tracker** — Self-hosted task management system (**Fastify** API, **Svelte 5** SPA, **Tauri** launcher). Repo is private until MVP release
 
 <br/>
