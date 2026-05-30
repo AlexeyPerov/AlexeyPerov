@@ -36,7 +36,7 @@
       Summary of all textures and atlases in a Unity project.
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Scanner">Unity-Scanner</a></strong> · ⭐ 2<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Scanner">Unity-Scanner</a></strong> · ⭐ 3<br/>
       Unified Editor & MCP tool for project health analysis across dependencies, materials, textures, addressables, and more.
     </td>
   </tr>
