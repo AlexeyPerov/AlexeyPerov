@@ -22,7 +22,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Dependencies-Hunter">Unity-Dependencies-Hunter</a></strong> · ⭐ 714<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Dependencies-Hunter">Unity-Dependencies-Hunter</a></strong> · ⭐ 715<br/>
       Finds unreferenced assets by scanning all files in your Unity project.
     </td>
     <td width="50%" valign="top">
