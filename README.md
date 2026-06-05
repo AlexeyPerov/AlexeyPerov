@@ -62,7 +62,6 @@
   </tr>
 </table>
 
----
 
 <h1 align="center">Image Processing Tools</h1>
 <div align="center">Desktop utilities for texture workflows and compression prep</div>
@@ -82,7 +81,6 @@
   </tr>
 </table>
 
----
 
 <h1 align="center">Other Tools</h1>
 <div align="center">Cross-platform apps, logging, Flutter libraries, and more</div>
@@ -90,6 +88,16 @@
 <br/>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <strong><a href="https://github.com/AlexeyPerov/WebPortfolioBuilder">WebPortfolioBuilder</a></strong><br/>
+      Desktop app for editing portfolio and studio sites — build static pages and preview locally before publishing.
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <strong><a href="https://github.com/AlexeyPerov/MacOS-SOCKS-Proxy">MacOS-SOCKS-Proxy</a></strong><br/>
+      Minimal macOS app to manage SSH SOCKS proxy connections with health checks and auto-reconnect.
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top" style="border: none;">
       <strong><a href="https://github.com/AlexeyPerov/LogKeeper-Flutter-Firebase">LogKeeper-Flutter-Firebase</a></strong> · ⭐ 5<br/>
@@ -102,7 +110,6 @@
   </tr>
 </table>
 
----
 
 <h1 align="center">Under Development</h1>
 
