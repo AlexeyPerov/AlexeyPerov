@@ -71,11 +71,11 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/SimilarTexturesFinder">SimilarTexturesFinder</a></strong><br/>
+      <strong><a href="https://github.com/AlexeyPerov/SimilarTexturesFinder">Similar-Textures-Finder</a></strong><br/>
       Desktop app for finding duplicate and near-duplicate texture images.
     </td>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/crunch_textures">crunch_textures</a></strong> · ⭐ 11<br/>
+      <strong><a href="https://github.com/AlexeyPerov/crunch_textures">Crunch-Textures</a></strong> · ⭐ 11<br/>
       Check and resize textures for Crunch compression (width/height multiple of 4).
     </td>
   </tr>
@@ -90,7 +90,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/WebPortfolioBuilder">WebPortfolioBuilder</a></strong><br/>
+      <strong><a href="https://github.com/AlexeyPerov/WebPortfolioBuilder">Web-Portfolio-Builder</a></strong><br/>
       Desktop app for editing portfolio and studio sites — build static pages and preview locally before publishing.
     </td>
     <td width="50%" valign="top" style="border: none;">
@@ -100,7 +100,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/LogKeeper-Flutter-Firebase">LogKeeper-Flutter-Firebase</a></strong> · ⭐ 5<br/>
+      <strong><a href="https://github.com/AlexeyPerov/LogKeeper-Flutter-Firebase">Log-Keeper</a></strong> · ⭐ 5<br/>
       Cross-platform log snapshot sharing (Flutter/Dart, Bloc, Firebase Firestore).
     </td>
     <td width="50%" valign="top" style="border: none;">
