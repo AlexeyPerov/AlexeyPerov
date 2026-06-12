@@ -71,7 +71,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/SimilarTexturesFinder">Similar-Textures-Finder</a></strong><br/>
+      <strong><a href="https://github.com/AlexeyPerov/SimilarTexturesFinder">Similar-Textures-Finder</a></strong> · ⭐ 1<br/>
       Desktop app for finding duplicate and near-duplicate texture images.
     </td>
     <td width="50%" valign="top" style="border: none;">
