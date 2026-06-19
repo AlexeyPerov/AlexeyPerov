@@ -1,15 +1,11 @@
 <div align="center">
 
-  <code>Unity</code> • <code>Svelte</code> • <code>Flutter</code> • <code>Developer Tools</code> • <code>AI Tools</code>
+  <code>Unity</code> • <code>Svelte</code> • <code>Flutter</code> • <code>AI & Developer Tools</code>
   <br/>
   <br/>
   <a href="https://github.com/AlexeyPerov?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/alexey-perov-4669b375/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://alexeyperov.github.io/"><img src="https://img.shields.io/badge/Website-alexeyperov.github.io-24292f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-</div>
-
-<div align="center">
-<code>Developer tools, AI, and Unity Editor tooling</code>
 </div>
 
 ---
