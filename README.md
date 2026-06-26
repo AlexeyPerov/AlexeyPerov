@@ -18,7 +18,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Dependencies-Hunter">Unity-Dependencies-Hunter</a></strong> · ⭐ 715<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Dependencies-Hunter">Unity-Dependencies-Hunter</a></strong> · ⭐ 716<br/>
       Finds unreferenced assets by scanning all files in your Unity project.
     </td>
     <td width="50%" valign="top" style="border: none;">
