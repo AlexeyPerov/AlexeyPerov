@@ -14,6 +14,15 @@
 <div align="center">Tools that help keep Unity projects healthy — finding unused assets, missing references, texture issues, and Addressables problems.</div>
 
 <br/>
+<br/>
+
+<div align="center">
+<strong><a href="https://github.com/AlexeyPerov/Unity-Open-MCP">Unity-Open-MCP</a></strong> · ⭐ <br/>
+      Unity-Open-MCP is a complete set of tools to use AI with Unity. It acts as a bridge between AI agents (like Claude Code, Cursor, ZCode) and Unity providing various tools and senses.
+</div>
+
+<br/>
+<br/>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr>
