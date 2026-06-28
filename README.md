@@ -16,10 +16,10 @@
 <br/>
 <br/>
 
-<h1 align="center">
+<div align="center">
 <strong><a href="https://github.com/AlexeyPerov/Unity-Open-MCP">Unity-Open-MCP</a></strong> · ⭐ <br/>
       Unity-Open-MCP is a complete set of tools to use AI with Unity. It acts as a bridge between AI agents (like Claude Code, Cursor, ZCode) and Unity providing various tools and senses.
-</h1>
+</div>
 
 <br/>
 <br/>
