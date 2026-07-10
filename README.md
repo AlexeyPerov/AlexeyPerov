@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-<strong><a href="https://github.com/AlexeyPerov/Unity-Open-MCP">Unity-Open-MCP</a></strong> · ⭐ 3 · ⭐ <br/>
+<strong><a href="https://github.com/AlexeyPerov/Unity-Open-MCP">Unity-Open-MCP</a></strong> · ⭐ 4 · ⭐ <br/>
       Unity-Open-MCP is a complete set of tools to use AI with Unity. It acts as a bridge between AI agents (like Claude Code, Cursor, ZCode) and Unity providing various tools and senses.
 </div>
 
@@ -27,7 +27,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Dependencies-Hunter">Unity-Dependencies-Hunter</a></strong> · ⭐ 716<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Dependencies-Hunter">Unity-Dependencies-Hunter</a></strong> · ⭐ 717<br/>
       Finds unreferenced assets by scanning all files in your Unity project.
     </td>
     <td width="50%" valign="top" style="border: none;">
