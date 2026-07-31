@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-<strong><a href="https://github.com/AlexeyPerov/Unity-Open-MCP">Unity-Open-MCP</a></strong> · ⭐ 6 · ⭐ <br/>
+<strong><a href="https://github.com/AlexeyPerov/Unity-Open-MCP">Unity-Open-MCP</a></strong> · ⭐ 8 · ⭐ <br/>
       Unity-Open-MCP is a complete set of tools to use AI with Unity. It acts as a bridge between AI agents (like Claude Code, Cursor, ZCode) and Unity providing various tools and senses.
 </div>
 
@@ -27,41 +27,41 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Dependencies-Hunter">Unity-Dependencies-Hunter</a></strong> · ⭐ 716<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Dependencies-Hunter">Unity-Dependencies-Hunter</a></strong> · ⭐ 718<br/>
       Finds unreferenced assets by scanning all files in your Unity project.
     </td>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter">Unity-MissingReferences-Hunter</a></strong> · ⭐ 98<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter">Unity-MissingReferences-Hunter</a></strong> · ⭐ 100<br/>
       Detects missing references by scanning asset GUIDs across the project.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Textures-Hunter">Unity-Textures-Hunter</a></strong> · ⭐ 84<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Textures-Hunter">Unity-Textures-Hunter</a></strong> · ⭐ 86<br/>
       Summary of all textures and atlases in a Unity project.
     </td>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Scanner">Unity-Scanner</a></strong> · ⭐ 4<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Scanner">Unity-Scanner</a></strong> · ⭐ 6<br/>
       Unified Editor & MCP tool for project health analysis across dependencies, materials, textures, addressables, and more.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Addressables-BuildLayout-Inspector">Unity-Addressables-BuildLayout-Inspector</a></strong> · ⭐ 1<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Addressables-BuildLayout-Inspector">Unity-Addressables-BuildLayout-Inspector</a></strong> · ⭐ 3<br/>
       Analyze Addressables build layouts — bundles, groups, assets, duplicates, and cross-build comparisons.
     </td>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Materials-Hunter">Unity-Materials-Hunter</a></strong> · ⭐ 3<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Materials-Hunter">Unity-Materials-Hunter</a></strong> · ⭐ 5<br/>
       Summary of all materials and renderers in a Unity project.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Asset-Inspector">Unity-Asset-Inspector</a></strong><br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Asset-Inspector">Unity-Asset-Inspector</a></strong> · ⭐ 2<br/>
       Inspect asset references, serialized dependencies, and optional Addressables/bundle context.
     </td>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Lite-Editor-Coroutines">Unity-Lite-Editor-Coroutines</a></strong> · ⭐ 1<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Lite-Editor-Coroutines">Unity-Lite-Editor-Coroutines</a></strong> · ⭐ 3<br/>
       Lightweight alternative to Unity Editor Coroutines.
     </td>
   </tr>
@@ -76,11 +76,11 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/SimilarTexturesFinder">Similar-Textures-Finder</a></strong> · ⭐ 1<br/>
+      <strong><a href="https://github.com/AlexeyPerov/SimilarTexturesFinder">Similar-Textures-Finder</a></strong> · ⭐ 3<br/>
       Desktop app for finding duplicate and near-duplicate texture images.
     </td>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/crunch_textures">Crunch-Textures</a></strong> · ⭐ 11<br/>
+      <strong><a href="https://github.com/AlexeyPerov/crunch_textures">Crunch-Textures</a></strong> · ⭐ 13<br/>
       Check and resize textures for Crunch compression (width/height multiple of 4).
     </td>
   </tr>
@@ -105,11 +105,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/LogKeeper-Flutter-Firebase">Log-Keeper</a></strong> · ⭐ 5<br/>
+      <strong><a href="https://github.com/AlexeyPerov/LogKeeper-Flutter-Firebase">Log-Keeper</a></strong> · ⭐ 6<br/>
       Cross-platform log snapshot sharing (Flutter/Dart, Bloc, Firebase Firestore).
     </td>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/proviso">proviso</a></strong> · ⭐ 3<br/>
+      <strong><a href="https://github.com/AlexeyPerov/proviso">proviso</a></strong> · ⭐ 5<br/>
       Flutter toolkit for conditional rendering, subtree wrapping, and handy dev shortcuts.
     </td>
   </tr>
@@ -123,7 +123,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/SpecOps">SpecOps</a></strong><br/>
+      <strong><a href="https://github.com/AlexeyPerov/SpecOps">SpecOps</a></strong> · ⭐ 2<br/>
       Desktop workspace for specs, notes, and project files. Built with <strong>Tauri</strong> and <strong>SvelteKit</strong>. AI support is currently under development.
     </td>
     <td width="50%" valign="top" style="border: none;">
