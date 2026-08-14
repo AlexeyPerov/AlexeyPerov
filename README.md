@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Textures-Hunter">Unity-Textures-Hunter</a></strong> · ⭐ 86<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Textures-Hunter">Unity-Textures-Hunter</a></strong> · ⭐ 85<br/>
       Summary of all textures and atlases in a Unity project.
     </td>
     <td width="50%" valign="top" style="border: none;">
