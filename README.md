@@ -41,7 +41,7 @@
       Summary of all textures and atlases in a Unity project.
     </td>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Scanner">Unity-Scanner</a></strong> · ⭐ 6<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Scanner">Unity-Scanner</a></strong> · ⭐ 7<br/>
       Unified Editor & MCP tool for project health analysis across dependencies, materials, textures, addressables, and more.
     </td>
   </tr>
@@ -123,7 +123,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/SpecOps">SpecOps</a></strong> · ⭐ 2<br/>
+      <strong><a href="https://github.com/AlexeyPerov/SpecOps">SpecOps</a></strong> · ⭐ 3<br/>
       Desktop workspace for specs, notes, and project files. Built with <strong>Tauri</strong> and <strong>SvelteKit</strong>. AI support is currently under development.
     </td>
     <td width="50%" valign="top" style="border: none;">
