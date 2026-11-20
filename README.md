@@ -27,7 +27,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Dependencies-Hunter">Unity-Dependencies-Hunter</a></strong> · ⭐ 729<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Dependencies-Hunter">Unity-Dependencies-Hunter</a></strong> · ⭐ 730<br/>
       Finds unreferenced assets by scanning all files in your Unity project.
     </td>
     <td width="50%" valign="top" style="border: none;">
@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <strong><a href="https://github.com/AlexeyPerov/Unity-Textures-Hunter">Unity-Textures-Hunter</a></strong> · ⭐ 84<br/>
+      <strong><a href="https://github.com/AlexeyPerov/Unity-Textures-Hunter">Unity-Textures-Hunter</a></strong> · ⭐ 85<br/>
       Summary of all textures and atlases in a Unity project.
     </td>
     <td width="50%" valign="top" style="border: none;">
